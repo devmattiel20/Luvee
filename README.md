@@ -131,3 +131,11 @@ src/components/
 ## Estado del proyecto
 
 Este proyecto se encuentra en desarrollo. Las imágenes, el video y otros recursos visuales utilizados pertenecen a los archivos incluidos en el repositorio.
+
+## Autor
+
+**Matthew Bettin** - [@devmattiel20](https://github.com/devmattiel20)
+
+## Licencia
+
+ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
